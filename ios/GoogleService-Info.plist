@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>105634497241-tj2brn1b770b5av2pjd8g181jla0s9u0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.105634497241-tj2brn1b770b5av2pjd8g181jla0s9u0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA37KSqoX0h9UMKilRB30wxIuYu15BfUGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>105634497241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.neworg.siloapp</string>
+	<key>PROJECT_ID</key>
+	<string>silo-40612</string>
+	<key>STORAGE_BUCKET</key>
+	<string>silo-40612.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:105634497241:ios:f8688971ef35fedf42b4c8</string>
+</dict>
+</plist>
